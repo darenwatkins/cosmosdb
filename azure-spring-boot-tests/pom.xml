@@ -34,7 +34,7 @@
         <azure.spring.boot.version>2.2.2-SNAPSHOT</azure.spring.boot.version>
         <azure.mgmt.version>1.26.0</azure.mgmt.version>
         <cobertura.version>2.1.1</cobertura.version>
-        <secure.channel.version>0.1.53</secure.channel.version>
+        <secure.channel.version>0.1.54</secure.channel.version>
         <expect4j.version>1.6</expect4j.version>
     </properties>
 
